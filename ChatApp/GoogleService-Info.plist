@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>783117739073-1or6gutu1s1fnk5lho7us3ogh68om862.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.783117739073-1or6gutu1s1fnk5lho7us3ogh68om862</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-DClqdF4Py_uSZeDaK4e78OzU-_W5CCs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>783117739073</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.armia.ChatApp</string>
+	<key>PROJECT_ID</key>
+	<string>chatapp-b2365</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatapp-b2365.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:783117739073:ios:100c15ebc48c2ec6ac52c0</string>
+</dict>
+</plist>
